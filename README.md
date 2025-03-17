@@ -17,7 +17,6 @@ Requirements:
 ---
 
 ## Usage
-1. Usage
 ```
 go run solana-keygen.go (number of keys)
 ```
